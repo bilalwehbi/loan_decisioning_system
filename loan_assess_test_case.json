@@ -1,0 +1,38 @@
+{
+  "loan_amount": 50000.0,
+  "loan_term_months": 36,
+  "loan_purpose": "home_improvement",
+  "credit_data": {
+    "credit_score": 720,
+    "num_accounts": 8,
+    "num_active_accounts": 6,
+    "credit_utilization": 0.25,
+    "num_delinquencies_30d": 0,
+    "num_delinquencies_60d": 0,
+    "num_delinquencies_90d": 0,
+    "num_collections": 0,
+    "total_debt": 25000.0,
+    "inquiries_last_6mo": 2,
+    "longest_credit_length_months": 60
+  },
+  "banking_data": {
+    "avg_monthly_deposits": 8000.0,
+    "avg_monthly_withdrawals": 6000.0,
+    "monthly_income": 8000.0,
+    "income_stability_score": 0.85,
+    "num_income_sources": 1,
+    "avg_daily_balance": 5000.0,
+    "num_nsf_transactions": 0,
+    "num_overdrafts": 0
+  },
+  "application_data": {
+    "ip_address": "192.168.1.1",
+    "device_id": "device123",
+    "email_domain": "gmail.com",
+    "application_timestamp": "2025-05-16T19:00:18.916156",
+    "time_spent_on_application": 1200,
+    "num_previous_applications": 0
+  },
+  "applicant_income": 96000.0,
+  "applicant_employment_length_years": 3.0
+} 

@@ -1,0 +1,44 @@
+
+RISK_MODEL MODEL
+--------------------------------------------------
+
+Current Performance:
+accuracy    : 0.8180
+precision   : 0.3507
+recall      : 0.2458
+f1_score    : 0.2891
+roc_auc     : 0.7869
+
+Performance Trends:
+accuracy_change: +0.0000
+precision_change: +0.0000
+recall_change: +0.0000
+f1_score_change: +0.0000
+roc_auc_change: +0.0000
+
+Training Statistics:
+total_updates: 1
+last_update : 2025-05-14T17:26:04.141637
+total_samples: 8000
+
+FRAUD_MODEL MODEL
+--------------------------------------------------
+
+Current Performance:
+accuracy    : 0.9765
+precision   : 0.0000
+recall      : 0.0000
+f1_score    : 0.0000
+roc_auc     : 0.6779
+
+Performance Trends:
+accuracy_change: +0.0000
+precision_change: +0.0000
+recall_change: +0.0000
+f1_score_change: +0.0000
+roc_auc_change: +0.0000
+
+Training Statistics:
+total_updates: 1
+last_update : 2025-05-14T17:26:04.776598
+total_samples: 8000
